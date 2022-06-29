@@ -1,7 +1,6 @@
-### Eai Galera eu me chamo Lucas Gabriel mais todos me chamam de Lukinha 👋
+###  Olá eu sou Lucas Gabriel👋
 
 
-- 💻 Estudando Javascript
 - 💻 Front-End
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
