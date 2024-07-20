@@ -27,8 +27,8 @@ Sempre disposto aprender mais tecnologias e se adaptar ao mercado trabalho em al
 ## Minhas Redes Sociais
 
 <nav>
-    <a href="https://www.instagram.com/lucas.gabriel.moya/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/lucas.gabriel.moya/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/lucasgmoya" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lucasgabrielmoya" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://codepen.io/lukinhagabriel/pens/public" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white " target="_blank"></a>
 </nav>
 
