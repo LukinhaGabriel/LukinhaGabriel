@@ -21,8 +21,8 @@
 
 ## Objetivo
 
-Busco minha primeira oportunidade como desenvolvedor Front-End para mostrar meu trabalho e tudo aquilo que venho aprendendo, sempre tirando o melhor de mim e me dedicando ao máximo.
-Sempre disposto aprender mais tecnologias e se adaptar ao mercado trabalho em alto nível e valor.
+Busco adquirir experiência profissional, desenvolvendo minhas habilidades e contribuindo para o crescimento qualitativo e quantitativo da empresa. 
+Sempre me dedicando ao máximo, tirando o melhor de mim e demonstrando minhas habilidades e conhecimentos.
 
 ## Minhas Redes Sociais
 
